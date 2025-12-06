@@ -39,3 +39,5 @@ Delete: Remove data such as room entries or reservations.
 Notes:
 Update API settings in src/config.js
 Backend usually runs at http://localhost:5000
+
+Author : Geolowgyy
