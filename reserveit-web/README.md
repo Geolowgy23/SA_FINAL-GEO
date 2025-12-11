@@ -40,4 +40,4 @@ Notes:
 Update API settings in src/config.js
 Backend usually runs at http://localhost:5000
 
-Author : Geolowgyy
+Author : Jayson Blase
